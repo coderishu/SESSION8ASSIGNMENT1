@@ -1,0 +1,5 @@
+Ans-1)-->Shared Preferences allow you to save and retrieve data in the 
+form of key,value pair.
+----------------------------------------------------------------------------
+Ans2)-->The first parameter is the key and the second parameter is the MODE. Apart from private there are other modes available
+------------------------------------------------------------------------------------------------
